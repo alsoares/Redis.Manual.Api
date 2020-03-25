@@ -39,6 +39,5 @@ namespace Redis.Manual.Api.Controllers
             return Ok();
 
         }
-
     }
 }
